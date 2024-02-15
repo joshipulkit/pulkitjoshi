@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Pulkit Joshi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pulkit
+last_name: Joshi
 
 # Status emoji
 status:
@@ -17,34 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tata Institute of Fundamental Research
+    url: https://main.tifr.res.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include noncovalent interactions in open-shell molecular systems and temporary anionic states.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Noncovalent interactions in open-shell systems
+  - Negative ion resonances
+  - Density Functional Theory
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Chemical Science
+      institution: Tata Institute of Fundamental Research, Mumbai
+      year: 2018-present
+    - course: MSc in Chemistry (Sp: Physical Chemistry)
+      institution: University of Delhi, New Delhi
+      year: 2016-2018
+    - course: BSc with Honours in Chemistry
+      institution: St. Stephen's College, New Delhi
+      year: 2013-2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
