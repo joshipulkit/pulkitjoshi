@@ -3,7 +3,7 @@
 title: Pulkit Joshi
 
 # Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Pulkit
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Scholar
+role: Research Scholar, Quantum Chemistry Group
 
 # Organizations/Affiliations to show in About widget
 organizations:
